@@ -1,23 +1,19 @@
 # NoticeBoard
 
 This is a notice board android app, where college faculty from different department can post notice. Faculty member and Students can receive the notice from departments.
-- Download apk from [here](https://github.com/Ravi879/NoticeBoard/raw/master/Noticeboard.apk).
+- Download apk from [here](https://github.com/shivambangwal/Flutter-NOTICE-BOARD-APP/blob/main/Noticeboard.apk).
 
 ## Overview
 
 Only faculty members can post notice. The students can receive notice from their respective department only.
 For example, The student studding in mechanical engineering can receive notice from Mechanical department only, not from other academic department. In addition to that, students also receive notice from  non academic department like, library, Office, Sports, etc.
 
-### Screenshot
-1. Login <br>
-![Screenshot 1](https://github.com/Ravi879/NoticeBoard/raw/master/Screenshot/login.jpg "")
-2. Register <br>
-![Screenshot 1](https://github.com/Ravi879/NoticeBoard/raw/master/Screenshot/register.jpg "")
+
 
  #### Quick explanation of project directory :
-1. [cloud function](https://github.com/Ravi879/NoticeBoard/tree/master/cloud%20function) : It contains single file named index.js having two cloud function.
-2. [screenshot](https://github.com/Ravi879/NoticeBoard/tree/master/Screenshot): Sample screenshot from mobile emulator, tablet and real mobile device. It also includes firebase database screenshot.
-3. [code](https://github.com/Ravi879/NoticeBoard/tree/master/code): The android app code.
+1. [cloud function](https://github.com/shivambangwal/Flutter-NOTICE-BOARD-APP/tree/main/cloud%20function) : It contains single file named index.js having two cloud function.
+2. [screenshot](https://github.com/shivambangwal/Flutter-NOTICE-BOARD-APP/tree/main/Screenshot): Sample screenshot from mobile emulator, tablet and real mobile device. It also includes firebase database screenshot.
+3. [code](): The android app code.
 
 ### Prerequisites
 
@@ -59,6 +55,3 @@ Please, let me know if this project is useful to you or give suggestions at gadh
 
 - This project is licensed under the **[MIT license](http://opensource.org/licenses/mit-license.php)**
 
-### Support
-
-Please feel free to submit [issues](https://github.com/Ravi879/NoticeBoard/issues) with any bugs or other unforeseen issues you experience.
